@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Aslam!
 
 I'm currently pursuing my **Master of Computer Applications (MCA)** from **GGV Bilaspur**. I'm passionate about learning and building amazing projects using my technical skills.
