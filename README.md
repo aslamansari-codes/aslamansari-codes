@@ -32,7 +32,11 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** from **GGV B
 
 ## 📊 GitHub Stats
 
-![Aslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aslam&show_icons=true&theme=radical)
+![Aslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslamansari-codes&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aslamansari-codes&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aslamansari-codes&theme=radical)
 
 ---
 
@@ -40,3 +44,4 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** from **GGV B
 
 
 -->
+
