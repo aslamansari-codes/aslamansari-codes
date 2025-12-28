@@ -2,23 +2,24 @@
 <h3 align="center">🎓 MCA Student | 💻 Web Developer | 📊 Data Science & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Learning+by+Building+Real+Projects;Web+Development+%7C+Data+Science+%7C+ML;Focused+on+Job-Ready+Skills;Consistent+Growth+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Learning+by+Building+Real+Projects;Web+Development+%7C+Data+Science+%7C+Machine+Learning;Focused+on+Job-Ready+Skills;Consistent+Growth+Every+Day" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 MCA (3rd Semester) student from **Guru Ghasidas Vishwavidyalaya (GGV), Bilaspur**  
-💡 Strong interest in **Software Development & Data Science**  
-📊 Hands-on experience with **Machine Learning models & data preprocessing**  
-🚀 Actively building **real-world, internship-level projects**  
+🎓 MCA (4th Semester) student from **Guru Ghasidas Vishwavidyalaya (GGV), Bilaspur**  
+💡 Interested in **Software Development, Data Science & Machine Learning**  
+📊 Hands-on experience with **data preprocessing, ML models & visualization**  
+🚀 Actively building **real-world and internship-level projects**
 
-> _“I believe good code + consistency = growth.”_
+> 💡 *“Learning by building real projects and improving every single day.”*
 
 ---
 
-## 🧠 Skills, Languages & Technologies
+## 🧠 Skills Snapshot  
+> 💻 Languages, tools & technologies I actively use in my projects
 
 ### 💻 Programming Languages
 <p>
@@ -53,63 +54,58 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-🔹 **Fake News Detection System**  
+### 🔹 Fake News Detection System
+📌 *Machine Learning | NLP*  
 - TF-IDF + Passive Aggressive Classifier  
-- Fake / Real news classification  
+- Fake / Real news prediction  
 - Text preprocessing, evaluation & visualization  
 
-🔹 **Exit Poll Analysis System**  
-- Synthetic dataset generation  
-- Vote analysis & visualization  
-- ML-based party prediction  
+### 🔹 Titanic Survival Prediction *(CodeSoft Internship)*
+📌 *Binary Classification | Data Science*  
+- Survival prediction using ML models  
+- Missing value handling & feature encoding  
 
-🔹 **Image Filter Web Application**  
+### 🔹 Iris Flower Classification *(CodeSoft Internship)*
+📌 *Multi-class Classification*  
+- Species prediction using ML algorithms  
+- High accuracy after preprocessing & visualization  
+
+### 🔹 Exit Poll Analysis System
+📌 *Data Analysis | Visualization*  
+- Synthetic dataset generation  
+- Party-wise vote analysis & prediction  
+
+### 🔹 Image Filter Web Application
+📌 *Web Development*  
 - JavaScript + HTML Canvas  
 - Real-time image filters  
 - Future scope: AI-based filters & cropping  
 
-🔹 **Titanic Survival Prediction** *(CodeSoft Internship)*  
-- Binary classification using Titanic dataset  
-- Missing value handling & feature encoding  
-- ML models for survival prediction  
-
-🔹 **Iris Flower Classification** *(CodeSoft Internship)*  
-- Multi-class classification problem  
-- Species prediction using ML models  
-- High accuracy with proper preprocessing  
-
-🔹 **Stock In / Stock Out Management System**  
-- Excel-based inventory project  
-- Designed for office & data operator workflow  
+### 🔹 Stock In / Stock Out Management System
+📌 *Excel Project*  
+- Inventory management for office workflow  
+- Designed for data operator usage  
 
 ---
 
-## 📊 GitHub Analytics
+## 📌 Currently Focused On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aslamansari-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aslamansari-codes&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamansari-codes&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🔹 Strengthening **Machine Learning fundamentals**
+- 🔹 Improving **data preprocessing & feature engineering**
+- 🔹 Building **internship-level real-world projects**
+- 🔹 Preparing for **software / data analyst roles**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 
-💼 **LinkedIn:** https://www.linkedin.com/in/aslam-ansari-codes  
-🐙 **GitHub:** https://github.com/aslamansari-codes  
-📧 **Email:** aslamansari845434@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aslam-ansari-codes  
+- 🐙 **GitHub:** https://github.com/aslamansari-codes  
+
+📩 *Open to internships, learning opportunities & collaborations.*
 
 ---
 
-<h3 align="center">✨ Build • Learn • Improve • Repeat ✨</h3>
-
-⭐ If you like my work, feel free to star ⭐ my repositories!
+<h4 align="center">🚀 Build • Learn • Improve • Repeat</h4>
