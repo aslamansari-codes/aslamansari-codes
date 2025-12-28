@@ -1,49 +1,112 @@
-# 👋 Hi, I'm Aslam!
+<h1 align="center">Hey 👋 I'm Aslam Ansari</h1>
+<h3 align="center">🎓 MCA Student | 💻 frontend Developer | 📊 Data Science & ML Enthusiast</h3>
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** from **GGV Bilaspur**. I'm passionate about learning and building amazing projects using my technical skills.
-
-## 🚀 Skills & Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Learning+%7C+Building+%7C+Growing;Web+Development+%26+Machine+Learning;Turning+Data+into+Decisions" />
 </p>
 
-🌱 Currently exploring new technologies to enhance my skill set.
-
-## 💡 About Me
-
-- 🎓 **Degree:** Pursuing MCA, GURU GHASIDAS VISHWAVIDALAYA BILASPUR Chhattisgarh (C. G.)
-- 🧑‍💻 **Status:** Fresher, eager to gain hands-on experience
-- 💬 **Ask me about:** Web development, coding concepts, and programming languages
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href= target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>LinkedIn</a>
-  <a href="https://github.com/aslamansari-codes" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>GitHub</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aslamansari-codes&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
-
-## 📊 GitHub Stats
-
-![Aslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aslamansari-codes&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aslamansari-codes&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aslamansari-codes&theme=radical)
 
 ---
 
-🌟 *Let's connect and create something amazing together!*
+## 🧑‍💻 About Me
 
+🎓 **MCA (4th Semester)** student from **Guru Ghasidas Vishwavidyalaya (GGV), Bilaspur**  
+💡 Passionate about **Problem Solving, Data Analysis & Web Technologies**  
+🚀 Building projects using **Machine Learning & Full-Stack Concepts**  
+📈 Focused on **job-ready skills & real-world projects**  
 
--->
+🔹 *I believe in consistency, clean code, and continuous learning.*
 
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge"/>
+</p>
+
+### 🌐 Web Technologies
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Django-darkgreen?style=for-the-badge"/>
+</p>
+
+### 📊 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Pandas-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Projects Highlights
+
+📌 **Fake News Detection System**  
+✔ Machine Learning based  
+✔ TF-IDF + Passive Aggressive Classifier  
+✔ Predicts *Fake / Real* news  
+
+📌 **Exit Poll Analysis System**  
+✔ Synthetic dataset generation  
+✔ Data visualization & ML prediction  
+✔ Party-wise vote analysis  
+
+📌 **Image Filter Web App**  
+✔ JavaScript + Canvas  
+✔ Real-time image filters  
+✔ Future scope: AI-based filters  
+
+📌 **Stock In / Stock Out Excel Project**  
+✔ Inventory tracking  
+✔ Data operator focused project  
+
+---
+
+## 📈 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aslamansari-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslamansari-codes&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslamansari-codes&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** your-email@example.com  
+💼 **LinkedIn:** linkedin.com/in/your-profile  
+📂 **GitHub:** github.com/aslamansari-codes  
+
+---
+
+<h3 align="center">✨ “Code. Learn. Improve. Repeat.” ✨</h3>
+
+⭐ If you like my work, consider starring ⭐ my repositories!
