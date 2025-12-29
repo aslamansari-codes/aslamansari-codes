@@ -62,12 +62,12 @@
 - Fake / Real news prediction  
 - Text preprocessing, evaluation & visualization  
 
-### 🔹 Titanic Survival Prediction *(CodeSoft Internship)*
+### 🔹 Titanic Survival Prediction
 📌 *Binary Classification | Data Science*  
 - Survival prediction using ML models  
 - Missing value handling & feature encoding  
 
-### 🔹 Iris Flower Classification *(CodeSoft Internship)*
+### 🔹 Iris Flower Classification
 📌 *Multi-class Classification*  
 - Species prediction using ML algorithms  
 - High accuracy after preprocessing & visualization  
